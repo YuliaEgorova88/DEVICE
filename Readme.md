@@ -1,6 +1,6 @@
-# Личный проект «{{projectTitle}}»
+# Личный проект «DEVICE»
 
-* Студент: [{{userName}}]({{userProfile}}).
+* Студент: [Yulia Egorova](https://github.com/YuliaEgorova88/DEVICE).
 * Наставник: `Неизвестно`.
 
 ---
